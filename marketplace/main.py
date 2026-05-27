@@ -1,15 +1,3 @@
-"""
-main.py  ←  RUN THIS FILE IN PYCHARM
-─────────────────────────────────────────────────────────────────────────────
-Online Marketplace — Entry point
-
-Flow:
-  1. initialize_db()   → creates DB + tables if they don't exist
-  2. AuthWindow opens  → user logs in or registers
-  3. on_login()        → routes to BuyerDashboard or SellerDashboard
-─────────────────────────────────────────────────────────────────────────────
-"""
-
 import sys
 import os
 
